@@ -1,4 +1,4 @@
-# Detecting Financial Fraud at Scale: Gradient Boosting and Ensemble Methods on the IEEE-CIS Transaction Dataset
+# Detecting Financial Fraud
 
 **DSC 148 — Introduction to Data Mining | UCSD Spring 2026**
 
